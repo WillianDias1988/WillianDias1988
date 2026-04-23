@@ -1,5 +1,7 @@
 # Willian Dias
 
+![Banner](./banner.svg)
+
 <p align="center">
   <img src="https://img.shields.io/badge/Senior%20Backend%20Engineer-.NET%20%2F%20C%23-0f172a?style=for-the-badge" alt="Senior Backend Engineer">
   <img src="https://img.shields.io/badge/SQL%20Server-Performance%20%26%20Tuning-0f172a?style=for-the-badge" alt="SQL Server">
@@ -30,6 +32,18 @@ Busco oportunidades remotas ou internacionais em backend, arquitetura e engenhar
 - system reliability
 - deployment automation
 - performance tuning
+
+## Executive Summary
+
+- Backend engineer focused on reliability and measurable impact
+- Strong in `.NET`, `C#`, `SQL Server`, APIs and automation
+- Comfortable with deployment, tuning and operational ownership
+
+## Resumo Executivo
+
+- Engenheiro backend focado em confiabilidade e impacto mensurável
+- Forte em `.NET`, `C#`, `SQL Server`, APIs e automação
+- Experiência com deploy, tuning e responsabilidade operacional
 
 ## What I Do
 
