@@ -1,0 +1,28 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1200" y2="320" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0F172A"/>
+      <stop offset="0.5" stop-color="#111827"/>
+      <stop offset="1" stop-color="#0F766E"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(930 80) rotate(90) scale(220 380)">
+      <stop stop-color="#34D399" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#34D399" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="blur" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="30"/>
+    </filter>
+  </defs>
+  <rect width="1200" height="320" rx="28" fill="url(#g)"/>
+  <circle cx="944" cy="88" r="150" fill="url(#glow)" filter="url(#blur)"/>
+  <circle cx="164" cy="270" r="115" fill="#2563EB" fill-opacity="0.12" filter="url(#blur)"/>
+  <circle cx="1040" cy="250" r="90" fill="#14B8A6" fill-opacity="0.12" filter="url(#blur)"/>
+  <g opacity="0.18">
+    <path d="M80 66H1120" stroke="white" stroke-width="1"/>
+    <path d="M80 254H1120" stroke="white" stroke-width="1"/>
+  </g>
+  <text x="80" y="126" fill="white" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="24" font-weight="600" letter-spacing="3">WILLIAN DIAS</text>
+  <text x="80" y="184" fill="white" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="58" font-weight="800">Senior Backend Engineer</text>
+  <text x="80" y="236" fill="#D1FAE5" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="24" font-weight="500">.NET • C# • SQL Server • APIs • Architecture • Automation</text>
+  <text x="80" y="280" fill="#CBD5E1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18" font-weight="400">Remote-ready | System reliability | Performance-focused</text>
+</svg>
