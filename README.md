@@ -1,7 +1,9 @@
 # Willian Dias
 
 <p align="center">
-  <strong>Senior Backend Engineer (.NET/C#) | SQL Server Performance | APIs, Architecture & Automation | Remote</strong>
+  <img src="https://img.shields.io/badge/Senior%20Backend%20Engineer-.NET%20%2F%20C%23-0f172a?style=for-the-badge" alt="Senior Backend Engineer">
+  <img src="https://img.shields.io/badge/SQL%20Server-Performance%20%26%20Tuning-0f172a?style=for-the-badge" alt="SQL Server">
+  <img src="https://img.shields.io/badge/Remote-International%20Ready-0f172a?style=for-the-badge" alt="Remote">
 </p>
 
 <p align="center">
@@ -20,6 +22,14 @@ Atuo principalmente com C#, .NET, SQL Server, APIs REST e automação. Meu foco 
 Tenho experiência em ambientes de alta demanda, integração entre sistemas, otimização de banco, automação de processos e melhoria de confiabilidade operacional.
 
 Busco oportunidades remotas ou internacionais em backend, arquitetura e engenharia de software, em times que valorizem profundidade técnica e responsabilidade sobre o produto.
+
+## Current Focus
+
+- backend engineering
+- software architecture
+- system reliability
+- deployment automation
+- performance tuning
 
 ## What I Do
 
@@ -46,15 +56,14 @@ Busco oportunidades remotas ou internacionais em backend, arquitetura e engenhar
 
 ## Tech Stack
 
-`C#` ` .NET` `ASP.NET Core` `SQL Server` `REST APIs` `Docker` `Linux` `Azure DevOps` `GitHub Actions` `Test Automation`
+`C#` `.NET` `ASP.NET Core` `SQL Server` `REST APIs` `Docker` `Linux` `Azure DevOps` `GitHub Actions` `Test Automation`
 
-## Current Focus
+## GitHub Stats
 
-- backend engineering
-- software architecture
-- system reliability
-- deployment automation
-- performance tuning
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=WillianDias1988&show_icons=true&hide_border=true&theme=transparent&title_color=0f172a&text_color=111827&icon_color=0f766e" alt="GitHub stats">
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WillianDias1988&layout=compact&hide_border=true&theme=transparent&title_color=0f172a&text_color=111827" alt="Top languages">
+</p>
 
 ## Contact
 
